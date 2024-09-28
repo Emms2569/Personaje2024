@@ -57,11 +57,19 @@ Movimiento: El Grinch se ilumina (LEDs) y realiza un movimiento de "mover brazos
 
 
 ## Enlaces de la simulacion de wokwi
-imagen de mapeo:
+### CASA INTELIGENTE
+imagen de mapeo casa inteligente:
 ![image](https://github.com/user-attachments/assets/3864e4dd-d19d-499c-bb09-6b2b09360660)
-
-ENLACE DE WOKWI:
+ENLACE DE WOKWI casa inteligente:
 https://wokwi.com/projects/410229526062651393
+
+### GRINCH
+imagen de mapeo GRINCH :
+![image](https://github.com/user-attachments/assets/035e0aaf-7f1b-4976-9743-40a3ca2a033b)
+
+ENLACE DE WOKWI GRINCH:
+https://wokwi.com/projects/410237305873262593
+
 ## Video
 
 ## Imagen de de Examenes de Cisco "C"
