@@ -1,13 +1,15 @@
-# Personaje2024
+# JOSE EMMANUEL ARREDONDO ESCALANTE INSTRUMENTO DE EVALUACION (EL GRINCH)
+![image](https://github.com/user-attachments/assets/99a851e4-ce22-4bcd-84db-c20f1256a908)
+
 ## Nombre del pesonaje
 EL GRINCH
 ## Creador 
 José Emmanuel Arredondo Escalante
 ## Explicacion del funcionamiento
 
-LEDs: Dos LEDs (rojo y verde) para representar sus emociones (enojado o feliz).
+LEDs: LEDs para DECORAR SU VESTIMENTA Y SU CUERPO.
 Servo Motor: Para simular movimientos, como un gesto de "apertura de brazos" cuando se activa la función de temperatura.
-Interfaz: Una pantalla LCD o OLED para mostrar mensajes sobre las condiciones de la vivienda.
+Interfaz: Una pantalla LCD o OLED para mostrar mensajes sobre las condiciones del ambiente.
 ### Funcionalidades:
 ### Control de LEDs y Botones:
 Botones: Dos botones físicos que permiten al usuario encender y uno apagar los LEDs del Grinch.
