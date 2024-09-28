@@ -70,7 +70,8 @@ imagen de mapeo GRINCH :
 ENLACE DE WOKWI GRINCH:
 https://wokwi.com/projects/410237305873262593
 
-## Video
+## Video de implentacion casa inteligente
+https://drive.google.com/file/d/1C0ysqZ3wmGFHBGQXB79KXgOGVCTZ5qrt/view?usp=drive_link
 
 ## Imagen de de Examenes de Cisco "C"
 Capitulo 1:
