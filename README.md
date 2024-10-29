@@ -92,3 +92,19 @@ Capitulo 5:
 EXAMEN FINAL 1:
 ![WhatsApp Image 2024-09-27 at 4 28 28 PM](https://github.com/user-attachments/assets/18600dd5-d009-40e0-9498-9364d57cd4b0)
 
+## Imagen de de Examenes de Cisco "Python"
+Capitulo 1:
+![image](https://github.com/user-attachments/assets/d49c58be-2f22-43a9-9210-fa4421bdff59)
+
+Capitulo 2:
+![image](https://github.com/user-attachments/assets/2a3ae931-995b-4a5d-adf2-926afca3b4ae)
+
+Capitulo 3:
+![image](https://github.com/user-attachments/assets/a215f692-c3f1-48af-a423-ef4a1ccd9429)
+
+Capitulo 4:
+![image](https://github.com/user-attachments/assets/4bb1d64c-c98e-40c1-9be0-0e5264aa4b5c)
+
+Examen final:
+
+![image](https://github.com/user-attachments/assets/00259fa4-4b08-441e-9154-1fe19e07f0b6)
