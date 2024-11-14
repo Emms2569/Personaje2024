@@ -91,6 +91,19 @@ Capitulo 5:
 
 EXAMEN FINAL 1:
 ![WhatsApp Image 2024-09-27 at 4 28 28 PM](https://github.com/user-attachments/assets/18600dd5-d009-40e0-9498-9364d57cd4b0)
+## unidad2
+
+### imagen de avance: 
+![WhatsApp Image 2024-11-14 at 3 16 49 PM (1)](https://github.com/user-attachments/assets/8b821015-82be-4329-8a44-f320775e8ee6)
+
+### video explicacion del proyecto:
+link: https://drive.google.com/file/d/1ziQI-h8fTPsxNNVqpEvLpCs1uSKfHMK7/view?usp=sharing
+
+### video de explicacion de practica (examen)
+https://drive.google.com/file/d/1jHyCWdXBB76BOibANQ-A0Kw64OG3vxdT/view?usp=sharing
+
+### videos de practicas
+https://drive.google.com/file/d/1yxj5SoGXtTQfbbCzcphvEeboAQUR-vTI/view?usp=sharing
 
 ## Imagen de de Examenes de Cisco "Python"
 Capitulo 1:
