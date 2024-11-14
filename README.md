@@ -99,7 +99,7 @@ EXAMEN FINAL 1:
 ### video explicacion del proyecto:
 link: https://drive.google.com/file/d/1ziQI-h8fTPsxNNVqpEvLpCs1uSKfHMK7/view?usp=sharing
 
-### video de explicacion de practica (examen)
+### video de explicacion del ejercicio practico integral (examen)
 https://drive.google.com/file/d/1jHyCWdXBB76BOibANQ-A0Kw64OG3vxdT/view?usp=sharing
 
 ### videos de practicas
